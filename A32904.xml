@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A chronology of the rise and growth of popery from vanity to superstition, thence to worse than heathen idolatry : and also the time when, and who brought it in, contrary to the Apostolical Canon ... / faithfully collected by a son of the true church from their own authors ...</title>
+            <author>Son of the true church.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32904</idno>
+            <idno type="STC">Wing C3976</idno>
+            <idno type="STC">ESTC R35574</idno>
+            <idno type="EEBO-CITATION">15367560</idno>
+            <idno type="OCLC">ocm 15367560</idno>
+            <idno type="VID">103530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A chronology of the rise and growth of popery from vanity to superstition, thence to worse than heathen idolatry : and also the time when, and who brought it in, contrary to the Apostolical Canon ... / faithfully collected by a son of the true church from their own authors ...</title>
+                  <author>Son of the true church.</author>
+               </titleStmt>
+               <extent>[3], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXX [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103530:1" rendition="simple:additions"/>
+            <p>A CHRONOLOGY OF THE RISE and GROWTH OF POPERY: From <hi>Vanity</hi> to <hi>Superſtition,</hi> thence to worſe than Heathen <hi>Idolatry.</hi>
+            </p>
+            <p>AND ALSO The Time When, and Who brought it in, contrary to the Apo<g ref="char:EOLhyphen"/>ſtolical Canon: yet, for refuſing Submiſſion to POPERY many Thouſands have been, and Millions more are now deſign'd to be murthred (beſides, as we all know) and our Cities burnt, <hi>&amp;c.</hi>
+            </p>
+            <p>Faithfully collected by a Son of the True Church, from their own Au<g ref="char:EOLhyphen"/>thors who make many of their <hi>Deviſes</hi> ancienter than in truth they were, fathering them on whom they pleaſe: and to maintain theſe <hi>Foo<g ref="char:EOLhyphen"/>leries</hi> curſed <hi>Villanies</hi> are daily practiſed by the black Crew of <hi>Papiſts.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103530:2"/>
+            <pb facs="tcp:103530:2"/>
+            <head>A Chronology of the Growth of POPERY.</head>
+            <list>
+               <head>The APOSTOLICAL CANON.</head>
+               <item>A<hi rend="sup">o</hi> D<hi rend="sup">ni</hi>. 59 Eph. 4.4. &amp;. <hi>One God, one Lord, one Me<g ref="char:EOLhyphen"/>diator, one Spirit one Baptiſm,</hi> in the Name of the Father, Son, and Holy Ghoſt: to ſerve, honor, truſt, obey others as God, Lord, Mediator, Sanctifier or Preſerver, is Idolatry. Galatians 1.8, 9. <hi>Accurſed who preaches another Gospel.</hi>
+               </item>
+               <item>A<hi rend="sup">o</hi> D<hi rend="sup">ni</hi>. 90 Rev. 22-18. <hi>Curſed who adds thereto.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Firſt AGE, OF POPISH VANITIES.</head>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 68. POpe <hi>Clement</hi> ordain'd that over-worn Al<g ref="char:EOLhyphen"/>tar-cloths, curtains or Corporals be burnt, and their Aſhes buried in the Sanctuary as holy and precious Reliques.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 84 He put Oyl and Cream to Baptiſm. He ordained Confirmation, and commanded it to be had as ſoon as is poſſible; he affirms, he is no perfect Chriſtian that omitteth it.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 94 He inſtituted, None to conſecrate the Oyl and Cream nor confirm children, but Biſhops.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 109 P. <hi>Alex.</hi> 1. ſaies of the ſacramental Bread, The leſs it is, the better: he mingled Water with the Sacramental Wine: appointed holy Water, holy water-Briſhes and Buckets.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 124. P. <hi>Sixtus,</hi> Corpora's cloth to be of fine white Linnen. Lay men or Women not to touch Church Ornaments or Veſſels, from Copes to Candleſticks.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 130. Altars [<hi>Tables</hi> ſo called till long after.]</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 134. P. <hi>Teleſphorus,</hi> 3 Maſſes on Chriſtmas day, contrary to P. Alex. who ſuffered one Prieſt to ſing only one Maſs on one day.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 141. P. <hi>Higenius</hi> uſurps the name POPE.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 142. Lent. firſt for 40 hours. Drawling Prayers. P. <hi>Pius,</hi> to lick up ſpilt Sacrament Wine.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 258. P. <hi>Six.</hi> 2. Altars for Maſſes conſecrated.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 169. Shaven Crowns Apes of <hi>Iſis</hi> prieſts. <hi>v.</hi>724.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 179. P. <hi>Soter,</hi> Prieſts bleſs Marriage.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 180. <hi>Valentinian</hi> the Heretick, Extream Unction.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 204. P. <hi>Zephorin</hi> brings in glaſs Chalices for wooden Cups, leſt the Wood drink the wine.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 210. No Temples nor Altars yet. <hi>Min. Fel.</hi>
+               </item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 218. P. <hi>Calixtus,</hi> 4 Ember Weeks, Church<g ref="char:EOLhyphen"/>yards forbids Marriage in 4th degree.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. P. <hi>Urb.</hi> 1. ſilv. &amp; gold Chalices, wooden prieſts.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 22<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Monks: Chriſtian Churches built.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 22<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. P. <hi>Fabian,</hi> yearly Chriſm.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>40. Interceſſion of Saints, private Confeſſion, Nuns. Bread dipt in Wine at Sacrament. Chriſmatories.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. 255. Prieſts, Altars, Veſts, Copes. P. <hi>Stephen,</hi> Church Ornaments not to be touch'd but by holy hands. Chriſm, oyl, prayer, and offering for'th dead: Sign of the Croſs.</item>
+               <item>A<hi rend="sup">o</hi>.D<hi rend="sup">ni</hi>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>70, P. <hi>Foelix,</hi> None but prieſts ſay Maſs. Maſſes at martyrs Sepulchres, and thanks for Martyrs.</item>
+               <item>A.D. 283. P. <hi>Caius</hi> inſtitutes 8 Orders: O, L, E, A, S, D, P, E.</item>
+               <item>A.D. 300, Holy Land viſited. Acolites.</item>
+            </list>
+            <list>
+               <head>II. AGE. <hi>Growth of Popiſh Superſtitions &amp; Idolatrys.</hi>
+               </head>
+               <item>A.D. 307, P, <hi>Marcellus,</hi> 15 Cardinals, prieſts of the new erected pariſhes to Baptize and bury.</item>
+               <item>A.D. 311. P, <hi>Melchiades,</hi> Confirmation more worthy than Baptiſm, becauſe appropriated to Bps.</item>
+               <item>A.D. 314, <hi>Silveſter,</hi> Surplis or alb corporal for th' Altar. No ſilk to be worn at the Altar, but white linnen, becauſe Chriſt was buried in linnen. <hi>Dalmatiques,</hi> Lord, have mercy upon us. Council at <hi>Rome,</hi> Biſhops only to conſecrate, and Ceremonies of conſecrating Churches.</item>
+               <item>A.D. 320 <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onſtantine</hi> the Emperor cauſes wax candles &amp; lamps to be ſet up and burnt in day time. Laws of Faſting given Monks firſt, then the Clergy, at laſt came on all.</item>
+               <item>A.D. 325. Till the <hi>Nicene</hi> Council, the Roman Church had little Reſpect, was ſuperior only to her ſuburb Churches. <hi>As it was in the Begin<g ref="char:EOLhyphen"/>ning,</hi> added to <hi>Glory be to the Father.</hi> Metropo<g ref="char:EOLhyphen"/>litans inſtituted, <hi>Rome</hi> but a City Bp. till then.</item>
+               <item>A.D. 326. The Croſs found, occaſion of its worſhip.</item>
+               <item>A.D. 329. Monks by <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hony,</hi> &amp;c. in <hi>Aegypt, Syria;</hi> by <hi>Bazil</hi> in <hi>Greec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> by <hi>Ambroſe</hi> in <hi>Italy;</hi> all Laics.</item>
+               <item>A.D. 330. A Font at <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onſtantinople.</hi>
+               </item>
+               <item>A.D. 335. The Temple at Jeruſalem moſt ſolemnly conſecrated only by Prayer Word &amp; Sacram.</item>
+               <item>A.D. 336. <hi>Nicene</hi> Creed read after the Goſpel.</item>
+               <item>A.D. 355. St. <hi>Andrews</hi> bones tranſlated, and his Feaſt inſtituted. Martyrs reliques buried un<g ref="char:EOLhyphen"/>der the Communion Table.</item>
+               <item>A.D. 358. Feaſt of Circumciſion. Euchariſt nicknamd Maſs.</item>
+               <item>A.D. 360 Council <hi>Laod:</hi> forbids Love-Feaſts in Chur<g ref="char:EOLhyphen"/>ches, and Sacrament in Houſes: Tables yet.</item>
+               <item>A.D. 368. P. <hi>Dam.</hi> introduc'd ſinging. <hi>Jeroms</hi> Tranſl.</item>
+               <item>A.D. 369. Deacons only enter Sanctuary, <hi>viz.</hi> in<g ref="char:EOLhyphen"/>cloſure of the Altar.</item>
+               <item>A.D. 370. P. <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>maſus,</hi> firſt ſings Pſalms: and divides the Quire to ſing by turns afterwards.</item>
+               <item>A.D. 377. Parents preſent at Baptiſm.</item>
+               <item>A.D. 380. The Nickname <hi>Catholick</hi> taken up. <hi>Epiphanius</hi> and <hi>Ambroſe</hi> oppoſe Saint worſhip now crept in. The people pray for <hi>Conſtan<g ref="char:EOLhyphen"/>tine,</hi> the Virgin <hi>Mary,</hi> and the Damned.</item>
+               <item>A.D. 381. <hi>Satyrus,</hi> Brot. to S. <hi>Ambroſe</hi> ty'd the Sacram. about's neck, &amp; leapt into the Sea in a ſtorm.</item>
+               <item>A.D. 383. <hi>Itacius,</hi> firſt bloody perſecuting Bp. repro<g ref="char:EOLhyphen"/>ved by his Brethren.</item>
+               <item>A.D. 385. P. <hi>Siricius,</hi> Obits, Memories of the dead, and Anthems: forbids the Clergy to marry.</item>
+               <item>A.D. 391. Canonical hours. Infants admitted to the Lords Supper. Altars wooden Tables cove<g ref="char:EOLhyphen"/>red with linnen.</item>
+               <item>A.D. 394. The Word Maſs in uſe.</item>
+               <item>A.D. 399. P. <hi>Anaſtaſius</hi> (in Engliſh <hi>ſtand up</hi>) riſes at the Goſpel, to keep his name in memory.</item>
+               <item>A.D. 398. Form of conſecrating the Euchariſt.</item>
+               <item>A.D. 400. The Encloſure of the Communion Table, called Sanctuary, adorned with Curtains and royal hangings, as the Oracle in the Temple.</item>
+               <pb n="2" facs="tcp:103530:3"/>
+               <item>A.D. 401. P. <hi>Innocent.</hi> The names of the dead not to be rehearſd before Conſecration.</item>
+               <item>A.D. 402. Council. <hi>Mela.</hi> Rights of Patronage. The reſidue of the Sacrament burnt.</item>
+               <item>A.D. 403. P. <hi>Innocent</hi> commands Saturday Faſt, be<g ref="char:EOLhyphen"/>cauſe Chriſts Diſciples faſted whilſt he was in the Grave. Vigiles with dead Bodies. Croſſes brought into the Church for Honor not Adoration; nor had they any Effigies on them till long after.</item>
+               <item>A.D. 404. P. <hi>Innocent,</hi> at the Agnus, the Prieſts kiſs one another, the people the Pax.</item>
+               <item>A.D. 407. He excommunicates the Eaſtern Church<g ref="char:EOLhyphen"/>es, in the behalf of <hi>Chryſoſtom.</hi>
+               </item>
+               <item>A.D. 409. Lights in day time in Churches.</item>
+               <item>A.D. 416. Bones of St. <hi>Stephen, Nichodemus</hi> and <hi>Gama<g ref="char:EOLhyphen"/>liel</hi> tranſlated.</item>
+               <item>A.D. 426. None to be Chriſtned, children nor others till the Prieſt, by his breath and conjuration, had driven the Devil out of them.</item>
+               <item>A.D. 433 <hi>Maximus</hi> Bp. of <hi>Turin,</hi> Homilies for Ad<g ref="char:EOLhyphen"/>vent, palm-Sunday, Aſh wedneſday.</item>
+               <item>A.D. 439. <hi>Muſaeus</hi> makes Collects, Leſſons and Re<g ref="char:EOLhyphen"/>ſponds for <hi>Venertus</hi> Bp. of <hi>Marcels. Eudoſia</hi> brings <hi>Peters</hi> bonds from <hi>Jeruſalem;</hi> and P. <hi>Sextus</hi> appoints them a Feaſt for her.</item>
+               <item>A.D. 440 P. <hi>Leo,</hi> 4 Lents. Litanies Prefaces to the Maſs, and <hi>hanc igitur oblationem.</hi> In 7ma, 4ma &amp; Advent, no <hi>Haleluja</hi> nor <hi>Gloria in excelſis. Mamertus Claud.</hi> Bp. of <hi>Vienna</hi> invented the 3 Rogation days: ſung Litanies about the fields.</item>
+               <item>A.D. 444 Litanies in great Raines uſed by <hi>Theo<g ref="char:EOLhyphen"/>doſius</hi> at <hi>Conſtantinople.</hi>
+               </item>
+               <item>A.D. 446. <hi>Triſagion ſanctus Deus, ſanctus fortis, ſanctus &amp; immortalis miſerere noſtri,</hi> upon the Earth<g ref="char:EOLhyphen"/>quake, the Original of the popiſh conjura<g ref="char:EOLhyphen"/>tions of Thunder, Lightning, <hi>&amp;c.</hi>
+               </item>
+               <item>A.D. 450. Confeſſion (after Tryal) rejected by the Greeks, introduced in the Latine churches. <hi>Paulinus</hi> Bp. of <hi>Nola</hi> firſt promoter and proct<g ref="char:EOLhyphen"/>or of Images in Churches.</item>
+               <item>A.D. 458. <hi>Paulinus</hi> Bp. of <hi>Nola</hi> in <hi>Campaina,</hi> brought in Sts. Bells called <hi>Nola,</hi> and Bells called thence <hi>Campanae</hi> into Chriſtian Churches. He firſt painted O. &amp; N. Teſtament hiſtories in his Church, contrary to the Council of <hi>Eliber;</hi> and crucifixes. Rogation Litanies.</item>
+               <item>A.D. 467. P. <hi>Simplicius</hi> claims Headſhip of the Chur.</item>
+               <item>A.D. 492. P. <hi>F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lix</hi> orders the prieſts to ſtretch out their arms, and hold up their hands in maſ<g ref="char:EOLhyphen"/>ſes, eſpecially in the ſecrets, Canon and Pre<g ref="char:EOLhyphen"/>faces: forbids wom. to ſerve at the Altar, yet are allowed to Baptize. Adds <hi>Te igitur</hi> to the Cannon of the Maſs: claims Prima<g ref="char:EOLhyphen"/>cy of all Bps, Augments, Collects, &amp; Cardin.</item>
+               <item>A.D. 498. P. <hi>Symmachus, Gloria in excelſis</hi> to be ſung at Maſs, on Sundaies, principal Feaſts &amp; Sts days.</item>
+               <item>A.D. 505. The Feaſt of St. <hi>Pet.</hi> and <hi>Paul</hi> inſtituted at the requeſt of <hi>Ariadna</hi> an <hi>Arrian</hi> Empreſs, the beginning of Saints worſhip. <hi>v.</hi>695.</item>
+               <item>A.D. 507. Council of <hi>Epannum,</hi> three dayes to be kept in Aſcention week.</item>
+               <item>A.D. 517. Council of <hi>Epannum,</hi> ſtone-altars.</item>
+               <item>A.D. 527. P. <hi>Faelix,</hi> inſtitutes extream Unction, with conjurd oyl after <hi>Valentinians</hi> practice. <hi>v.</hi>180</item>
+               <item>A.D. 530. p. <hi>Boniface</hi> 2. Roodloft, partition of Church from Chauncel.</item>
+               <item>A.D. 542. P. <hi>Agapetus,</hi> Candlemas or Purification of <hi>Mary,</hi> and the <hi>Benedictin</hi> Order.</item>
+               <item>A.D. 543. <hi>Vigilius,</hi> the watchful Pope for name ſake, ordains prayers towards the Eaſt in maſs. Hence Altars turn'd that way, and the prieſts back turn'd to the people.</item>
+               <item>A.D. 554. P. <hi>Pelagius.</hi> Funeral exequies or Dirges with maſſes of <hi>Requiem</hi> to be ſung for the dead.</item>
+               <item>A.D. 578. P. <hi>Pelagius</hi> 2. Canonical hours memorial of the Dead, and their Rites.</item>
+               <item>A.D. 584. Praying for the dead in the maſs.</item>
+               <item>A.D. 606. <hi>Phocas</hi> gives <hi>Boneface</hi> 3. the <hi>Pan Theon,</hi> who turns it from all Gods to the Worſhip of the Virgin <hi>Mary,</hi> and all Martyrs; and inſtitutes the Feaſt of all Souls next after all Saints. Pope <hi>Sabinian</hi> to Maſs lights adds lamp light.</item>
+               <item>A.D. 617. P. <hi>Boneface</hi> 5. Sanctuaries for offenders.</item>
+               <item>A.D. 629. Feaſt of the exaltation of the Croſs upon its reſtoration by <hi>Coſroes</hi> to the E. <hi>Heraclius.</hi>
+               </item>
+               <item>A.D. 637. <hi>England</hi> firſt divided into Pariſhes.</item>
+               <item>A.D. 644. P. <hi>Vitalian,</hi> prick-ſong, deſcant, ſweet airs &amp; Organs, canonical latine hours, Monaſterys.</item>
+               <item>A.D. 648. Firſt Lent in <hi>England.</hi>
+               </item>
+               <item>A.D. 653. P. <hi>Eugenius</hi> appoints Bps. ſeveral priſons for Clergy, as exempt from Civil power.</item>
+               <item>A.D. 674. Latin Maſs firſt ſung by <hi>John</hi> Bp. of <hi>Por<g ref="char:EOLhyphen"/>tua,</hi> in the 6. <hi>Synod</hi> of <hi>Conſtantinople,</hi> &amp; then firſt approved.</item>
+               <item>A.D. 676. P. <hi>Donus</hi> ſubdues the Church of <hi>Ravenna,</hi> his equal, by execrable cruelty, violence, blood</item>
+               <item>A.D. 682. P. <hi>Leo</hi> diviſes the Pax, a ſilver or copper plate, carried about to be kiſſed after Maſs.</item>
+               <item>A.D. 682. P. <hi>Agatho,</hi> Council of <hi>Conſtantinople,</hi> after the Symbol of a Lamb, added to the Croſs a humane ſhape, for Inſtruction not Adoration.</item>
+               <item>A.D. 683. P. <hi>Sergius,</hi> breaks the Hoſt in three, and ſings <hi>Agnus Dei</hi> with People &amp; Clergy at maſs.</item>
+               <item>A.D. 684. P. <hi>Bennet.</hi> Popes hitherto made by, and af<g ref="char:EOLhyphen"/>ter without, the Conſent of the Greek Emp.</item>
+               <item>A.D. 686. P. <hi>John</hi> 5. firſt made without the Empe<g ref="char:EOLhyphen"/>ror's leave. Council at <hi>Conſtantinople</hi> decree that the Pope is Chriſt's Vicar. <hi>O Lamb of God</hi> added to the Communion.</item>
+               <item>A.D. 695. The Feaſt of the Virgins Nativity follows that of <hi>Peter</hi> &amp; <hi>Paul,</hi> begun by an <hi>Arian</hi> Em<g ref="char:EOLhyphen"/>preſs who worſhiped Chriſt as a Saint. <hi>v.</hi>505</item>
+               <item>A.D. 706. P. <hi>Conſtantine</hi> in a Council at <hi>Rome</hi> eſta<g ref="char:EOLhyphen"/>bliſhes Images in Churches, condemns <hi>Philip</hi> the Emperor for deſtroying them. <hi>Heſperia, Lucania, Italia</hi> protected by <hi>France,</hi> rebel a<g ref="char:EOLhyphen"/>gainſt <hi>Leo.</hi> Oblations for the Dead.</item>
+               <item>A.D. 707. He offers the Emperor <hi>Juſtintan</hi> his Feet to kiſs, and he kiſſes them.</item>
+               <item>A.D. 714. P. <hi>Gregory</hi> 2. confirms Images, Excommu<g ref="char:EOLhyphen"/>nicates the Emperor, oppoſing and raiſing Rebellions againſt him. He obtruded the
+<pb n="3" facs="tcp:103530:3" rendition="simple:additions"/>Gregorian Office on the World. A Council in <hi>London</hi> againſt Prieſts mariage: and for Images, then firſt here. Spiritual and Corporal Whoredom at once impoſed.</item>
+               <item>A.D. 717. <hi>Leo</hi> 3. forces the City of <hi>Rome</hi> to Swear to him, and cauſes ſeveral Countries to Re<g ref="char:EOLhyphen"/>bel againſt the Emperor <hi>Leo,</hi> about Images.</item>
+               <item>A.D. 724. Prieſts Crowns ſhaved by <hi>Colfrid.</hi> ergo not before, to imitate Aegyptian <hi>Gypſies. v,</hi>169</item>
+               <item>A.D. 727. <hi>John Damaſcen,</hi> great procurer and pro<g ref="char:EOLhyphen"/>ctor of Image Worſhip; worſhiped <hi>Mahomets</hi> Bones at <hi>Mecca</hi> for hanſel.</item>
+               <item>A.D. 731. Firſt Burials within the Walls. P. <hi>Gregory </hi> Dirge, Groats and Maſs pence for friends Souls.</item>
+               <item>A.D. 735. Images by his Decree, Worſhiped and had in great reverence, and contrary Opinion to be Hereſy. <hi>Plat. Sab. Blad</hi> &amp;c.</item>
+               <item>A.D. 741. P. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>chary</hi> a Greek deviſed Oyl for Lamps in Churches.</item>
+               <item>A.D. 742. Inſtitutes Prieſts Garments after the Greek Imbit, conſpires with &amp; abſolves Palatine <hi>Pepin</hi> from his Alegiance to his Soveraign <hi>Chilpric.</hi>
+               </item>
+               <item>A.D. 747. Lords Prayer and Creed to be read in Eng<g ref="char:EOLhyphen"/>liſh. <hi>Engliſh</hi> Council at <hi>Cliff.</hi>
+               </item>
+               <item>A.D. 751. P. <hi>Paul.</hi> 1. Service for Lent.</item>
+               <item>A.D. 752. P. <hi>Steph.</hi> ſtiles the Traitor <hi>Pepin Criſtian<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mus.</hi> rides on mens necks, carries the Apoſtles Sculs and Reliques in publick Proceſſion.</item>
+               <item>A.D. 764. St. <hi>Vincents</hi> Bones.</item>
+               <item>A.D. 772. Seals in Lead, takes away St. <hi>Ambroſe</hi> Maſs. Reſtores Election of Popes to the Emperor, then French K. by a Ro. Coun. of 155. Bps.</item>
+               <item>A.D. 774. P. <hi>Stephen</hi> cenſed Images firſt burns Incence. Nicene Council Images in Churches. <hi>Irene,</hi> a Heathen Empereſs procured this Council Fraudulently, yet forbids to Worſhip them.</item>
+               <item>A.D. 796. P. <hi>Leo</hi> 3. forces Romans to Swear to the Popes. <hi>Charles</hi> the Great is made Emperor for it, and for ſetting him at Liberty from <hi>Adrian</hi> his Nephew, Ordains cenſing. He firſt Canonized Saints. P. <hi>Hon.</hi> 7. &amp; P. <hi>Adrian</hi> 1. follow him, Eſtabliſhing Images in Church.</item>
+               <item>A.D. 800. Legend of Saints,</item>
+               <item>A.D. 814. <hi>Lodwicks</hi> Charter, Grants the P. the City <hi>Rome,</hi> and Dukedom. Synods about this time, command Feaſts of St. <hi>Andrew, Martyn, Peter, Paul, John Baptiſt, Whitſunday, Epiphany, Aſſumption, Virgin Mary.</hi>
+               </item>
+               <item>A.D. 826. Firſt Organs at <hi>Acon.</hi>
+               </item>
+               <item>A.D. 828. P. <hi>Gregory</hi> 4. changes Feaſt of All Mar<g ref="char:EOLhyphen"/>tyrs to All Saints, and from 12. of <hi>May</hi> to 1. of <hi>Novemb.</hi> Feaſt of the Trinity Inſtit. by him</item>
+               <item>A.D. 842. P. <hi>Benet.</hi> 3. Clergy and Biſhops, to ſing Dirges mutually for one anothers Souls.</item>
+               <item>A.D. 844. P. <hi>Sergius</hi> III. changes his name firſt, and ſince him all Popes: divides Hoſt into 3. be<g ref="char:EOLhyphen"/>cauſe third of that name.</item>
+               <item>A.D. 846. Peter-pence in <hi>England</hi> given only of the Kings Demeſn, a ſmall Revenue.</item>
+               <item>A.D. 850. P. <hi>Leo</hi> 4. Lay-men not to enter the Chancel in Maſs time, but ſo far a to the Offertory.</item>
+               <item>A.D. 853 Roman Council depoſes Em. <hi>Anaſtaſius.</hi>
+               </item>
+               <item>A.D. 854. P. <hi>Jone</hi> 8. Engliſh, &amp; her Baſtard ſcares Popes from the <hi>Lateran</hi> way. Now the Baudy Chair.</item>
+               <item>A.D. 855. P. <hi>Benet</hi> 3. Dirges and Funeral Pomp, and Sequences.</item>
+               <item>A.D. 858. P. <hi>Nicholas</hi> Latin Service.</item>
+               <item>A.D. 884. P. <hi>Hadrian</hi> 3. diſſeizes Emp. of Authority in Elect. of Popes, &amp; gives the power to people.</item>
+               <item>A.D. 914. Service of S. <hi>Lambert,</hi> with the note and of the invention of S. <hi>Stephen,</hi> by <hi>Stephen</hi> Biſhop of <hi>Leodia.</hi>
+               </item>
+               <item>A.D. 929. P. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> K. of <hi>Hungary</hi> gives the Spear that wounded our Saviour to the Emperor.</item>
+               <item>A.D. 942. P. <hi>Marinus</hi> 2. <hi>Lord have mercy upon us</hi> in Engliſh Service.</item>
+               <item>A.D. 946. P. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igapitus</hi> commanded people to go on proceſſion.</item>
+               <item>A.D. 950. Not withſtanding <hi>Siricius</hi> Decrees Clergy Marry till now.</item>
+               <item>A.D. 965. P. John 1. Empire from <hi>French</hi> to <hi>Germins</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bells, gives Bell <hi>John</hi> of <hi>Lateran</hi> his name. Emp. <hi>Otho</hi> ſwears to the P. the caſe altered.</item>
+               <item>A.D. 967. <hi>Meſco</hi> K. of <hi>Poland</hi> orders all the people to ſay, <hi>Glory be to God,</hi> when the Goſpel's read, all to ſtand, and Knights to draw their Swords.</item>
+               <item>A.D. 993. Council <hi>Tibur</hi> Feaſt of All-Souls, faſting on ſaturdays, <hi>Ulrick</hi> B. of <hi>Auſpurg</hi> Canoniſed.</item>
+               <item>A.D. 996. Real preſence: Wafers: Cup taken away, one Pope choſen by the Emperor, another ex<g ref="char:EOLhyphen"/>pelled by the Romans.</item>
+               <item>A.D. 1000. Number of Advent Sundays, variouſly inſtituted. And conſecration of Churches with Holy Water Hyſop Aſhes, Salt, and ſome Church Wakes. The manner of Conſe<g ref="char:EOLhyphen"/>crating Prieſts in theſe words, <hi>Take thou pow<g ref="char:EOLhyphen"/>er to offer Sacrifice to God, and Celebrate Maſs for the live and dead,</hi> ſince which time they are not Chriſtian Prieſts, but ſacrifiſers to the Devil.</item>
+               <item>A.D. 1010. <hi>Peter,</hi> Hermite of <hi>Amiens.</hi> Beads.</item>
+               <item>A.D. 1013. Council <hi>Nemegen,</hi> Bread and Wine mar<g ref="char:EOLhyphen"/>ſhalled, &amp; the right hand given to the Bread.</item>
+               <item>A.D. 1033. Camaldulononſes.</item>
+               <item>A.D. 1045. P. <hi>Gregory, Bennet, Silvester,</hi> 3 Popes: the Roman church a three headed <hi>Cerberus.</hi>
+               </item>
+               <item>A.D. 1049. <hi>Leo</hi> 8. makes ſongs on the Saints.</item>
+               <item>A.D. 1058. P. <hi>Nich.</hi> 11. Defines the true body of Chriſt ſenſibly handled and broken by Prieſts hands bruiſed by receivers teeth, not only Sacra<g ref="char:EOLhyphen"/>mentally but really. He Decrees Election of Popes to the Cardin. ſubdues the D. of <hi>Apulia.</hi>
+               </item>
+               <item>A.D. 1059. <hi>Millan</hi> hitherto a free Church (as <hi>Raven<g ref="char:EOLhyphen"/>na,</hi> formerly) ſubdued by P. <hi>Stephen</hi> IX.</item>
+               <item>A.D. 1076. P. <hi>Greg.</hi> VII. <hi>Wildebrand.</hi> Popes only can Depoſe Biſhops, fulneſs of power in Heaven to bind and to loſe; on Earth, to give and take Empires, Kingdoms, <hi>&amp;c.</hi> that he might Depoſe them, abſolve ſubjects from their Oaths. Princes ought to kiſs his Feet. Laicks to Inſtitute Biſhops is Hereſy.</item>
+               <item>A.D. 1079. Tranſubſtantiation firſt propounded.</item>
+               <item>A.D. 1080. He prohibits the <hi>Bohemians</hi> the uſe of the
+<pb n="4" facs="tcp:103530:4" rendition="simple:additions"/>ſervice in a Tongue they underſtand.</item>
+               <item>A.D. 1088. Carthuſians, Canons Regular.</item>
+               <item>A.D. 1087. <hi>Urban</hi> 2. made the tenth preface in honour of the Virgin Mary. Prieſts ſay our Ladyes Matens every day.</item>
+               <item>A.D. 1088. <hi>Victor</hi> &amp; <hi>Urban</hi> Popes, choſen not by peo<g ref="char:EOLhyphen"/>ple nor Cardinals, but by their whore <hi>Matilda.</hi>
+               </item>
+               <item>A.D. 1090. Feaſt of S. <hi>James, Matthius, Simon</hi> and <hi>Jude.</hi>
+               </item>
+               <item>A.D. 1094. Three holy days at Eaſter &amp; Whitſontide.</item>
+               <item>A.D. 1395. Beads uſed by Pilgrims to Holy Land.</item>
+               <item>A.D. 1297. The Maſs-book of <hi>Sarum</hi> invented by <hi>Oſm.</hi>
+               </item>
+               <item>A.D. 1097. Feaſt of conception inſtituted in <hi>England.</hi>
+               </item>
+               <item>A.D. 1098. Ciſtertians.</item>
+               <item>A.D. 1116. Parliaments founded Premonſtrantes 1120</item>
+               <item>A.D. 1118. Templers to guard Pilgrims from thieves.</item>
+               <item>A.D. 1124. Sacrament adminiſtred in the Mouth.</item>
+               <item>A.D. 1130. Feaſts of St. <hi>Tho.</hi> St. <hi>Bartol.</hi> and St. <hi>Luke.</hi>
+               </item>
+               <item>A.D. 1141. Carmelites or 1218.</item>
+               <item>A.D. 1145. Curſing with Bell Book and Candle.</item>
+               <item>A.D. 1154. <hi>Adrian</hi> 4. <hi>Break-ſpear,</hi> excommunicates the Emp. <hi>Fredorick.</hi>
+               </item>
+               <item>A.D. 1157. Auguſtin Fryars.</item>
+               <item>A.D. 1159. P. <hi>Alexander.</hi> 3. trampled on his neck.</item>
+               <item>A.D. 1170. Croſſed Fryers, the Prieſt receives alone.</item>
+               <item>A.D. 1198. P. <hi>Innocent</hi> 3. Capital to diſſent from <hi>Rome.</hi> Jacobites. A Prieſt, betraying his confeſſion, put into a Monaſtery to do Penance all his life: not ſo, for offending God or Chriſt.</item>
+               <item>A.D. 1200. Sacram. carried in proceſſion with Bell, &amp;c.</item>
+               <item>A.D. 1204. P. <hi>Silveſter</hi> pixes for the Hoſt reſerved.</item>
+               <item>A.D. 1207. Dominic a Spaniſh Monk.</item>
+               <item>A.D. 1208. <hi>England</hi> interdicted.</item>
+               <item>A.D. 1209. Predicant Franciſcans Frier, minors of St. <hi>Francis.</hi>
+               </item>
+               <item>A.D. 1212. Poor women of St. <hi>Francis</hi> and St. <hi>Clare.</hi>
+               </item>
+               <item>A.D. 1214. Dominicans.</item>
+               <item>A.D. 1215. P. <hi>Innocent</hi> 3. in <hi>Lateran</hi> Council ordains Auricular confeſſion, and that all of age once a year confeſs to their Curates. He Excommunicates <hi>Philip</hi> the Emperor. Takes away the Cup from Laity. Confines the Sacrament to years of diſcretion, keeps his Exchequer in the Church.</item>
+               <item>A.D. 1220 P. <hi>Honorius</hi> 2. adores the Hoſt with bent knees: ſends it in Proceſſion to the ſick with Bell, <hi>&amp;c.</hi>
+               </item>
+               <item>A.D. 1222. Gray-Fryers known firſt in <hi>England.</hi>
+               </item>
+               <item>A.D. 1227. P. <hi>Greg.</hi> 9. excommunicates <hi>Fred.</hi> 2. or<g ref="char:EOLhyphen"/>ders <hi>Salve Regina</hi> with a Bell: Dominicans in <hi>England:</hi> he decrees that no lay man ſhall preach: that the ſacring Bell be rung at the Elevation of the Hoſte and cup, to worſhip that new found God with knocking the breaſt and heaving of hands.</item>
+               <item>A.D. 1241. P. <hi>Celeſtine</hi> 4. inſt. his Name-ſake Monks.</item>
+               <item>A.D. 1245. P. <hi>Innocent</hi> ſends Cut-throats, the firſt Aſ<g ref="char:EOLhyphen"/>ſaſſins, ancienter than the Mahometan, to kill the Emp. adds red Hats to Cardinals habits. <hi>Thomas</hi> of <hi>Aquine</hi> the black Monk made the Service for the Feaſt of Corpus Chriſti.</item>
+               <item>A.D. 1250. Hermites.</item>
+               <item>A.D. 1262. The Old man of the Mountains Ape of the Pope and his Aſſaſſins deſtroyd by <hi>Allou</hi> brother of <hi>Mango Cham</hi> then a Chriſtian or a Favorer of Chriſtians.</item>
+               <item>A.D. 1264. The Feaſt of the new God inſtituted at the requeſt of <hi>Eve</hi> the Hermite, <hi>Julien</hi> and <hi>Iſabel,</hi> and inſtance of <hi>Thomas Aquinas</hi> who made the ſervice for that day</item>
+               <item>A.D. 1274. P. <hi>Greg.</hi> erected a Conclave at the Coun<g ref="char:EOLhyphen"/>cil of <hi>Lions,</hi> and inſtituted the bowing of the Knee at the Name of JESUS.</item>
+               <item>A.D. 1275. Bowing at the Name of JESUS confirm'd by a council at <hi>Salsburg.</hi>
+               </item>
+               <item>A.D. 1277. P. <hi>John</hi> 22. gave 20 years pardon for every Nod at the Name of JESUS: N.B. <hi>the World loves its own, deſpiſes Chriſts Inſtitutions.</hi> P. <hi>Nicholas</hi> 3. begets a monſtrous Bear on his whore: <hi>Rebus Conveniant omnia ſaepe bene.</hi>
+               </item>
+               <item>A.D. 1281. <hi>Sicilian</hi> Veſpers. <hi>Cave Anglia.</hi>
+               </item>
+               <item>A.D. 1285. P. <hi>Honorius,</hi> Servi M. Virginis.</item>
+               <item>A.D. 1287. Templers. <hi>V.</hi> ſupra. 1118.</item>
+               <item>A.D. 1295. P. <hi>Boniface</hi> claims both the Swords, and proclaims himſelf in Imperial habit Lord of all Spirituals and Temporals, that is, Ante<g ref="char:EOLhyphen"/>chriſt, in theſe words, bellowed out, in the Jubile at <hi>Rome,</hi> by that Beaſt, on his Mule, <hi>Ecce duo gladii,</hi> ſee here two ſwords.</item>
+               <item>A.D. 1305. P. <hi>Clement</hi> 5. <hi>Corpus Christi</hi> day, <hi>gloria in excelſis</hi> added to the Sts. as well as Chriſts Birth day. He conſpiring with the K. of <hi>France</hi> butcher'd the Templers, <hi>cave Jeſuita.</hi> Relicks worſhipped.</item>
+               <item>A.D. 1131. At <hi>Leige,</hi> Women firſt kept <hi>corp. Chriſti</hi> day.</item>
+               <item>A.D. 1391. Reſolv'd at Weſtminſter the Pope hath nothing to do in <hi>England.</hi> Appeals prohibited.</item>
+               <item>A.D. 1415. Cup taken from the People: giv'n Clergy.</item>
+               <item>A.D. 1437. Prieſts forbid the Cup, unleſs they conſe<g ref="char:EOLhyphen"/>crate the Hoſt in the Communion.</item>
+               <item>A.D. 1433. Chriſts communion cup found in <hi>Spain.</hi>
+               </item>
+               <item>A.D. 1441. Purgatory confirmed in the <hi>Florentine</hi> C.</item>
+               <item>A.D. 1474. P. <hi>Xiſtus</hi> 4. confirms the Roſary of our Lady: &amp; erects Stews: ſpiritual &amp; corpor. whordom.</item>
+               <item>A.D. 1553. Q. <hi>Mary</hi>'s Perſecution.</item>
+               <item>A.D. 1556. <hi>Bavarians</hi> demand the Cup: Pope inraged.</item>
+               <item>A.D. 1561. Proteſtants maſſacred in a Church at <hi>Pa<g ref="char:EOLhyphen"/>ris:</hi> now began the long War for Religion.</item>
+               <item>A.D. 1567. ☞ <hi>Lutherans</hi> joyn with Papiſts againſt <hi>Calveniſts,</hi> and have <hi>Polyphemus's</hi> courteſy. Let thoſe that now eſpouſe the Papiſts Quarrel expect the ſame kindneſs: for 'tis all one to them whether they (Papiſts) deſtroy us, or we (Proteſtants) deſtroy one another: for, if they plot againſt us now, what will they not do when the number of Proteſtants are leſſe<g ref="char:EOLhyphen"/>ned? the Proteſtant is the Mark they aim at.</item>
+               <item>A.D. 1569. The Pope bleſſeth the Duke of <hi>Alva,</hi> and ſendeth him for his incouragement in his curſed bloody Proceedings in the Low-Coun<g ref="char:EOLhyphen"/>tres, an Helmet and a pair of Gantlets: In this Plotting time he's not ungrateful to his Agents, tho his Gratuities are yet unknown.</item>
+               <item>A.D. 1570. The Popes Bull againſt Queen <hi>Eliſabeth</hi> faſtned on the Bp of <hi>London's</hi> gate.</item>
+               <item>A.D. 1572. The Pariſian Maſſacre of 70000 Prote<g ref="char:EOLhyphen"/>ſtants, as the King boaſted to the Pope.</item>
+            </list>
+            <p>Let us pray, That the Growth, Power and Friends of Popery may have AN END.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
